@@ -1,2 +1,4 @@
 index.html
-Script.js
+Script.js/
+*.html
+*.md
